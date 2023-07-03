@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.989821c9.css","mappings":"AAAA,KAEA,wBAAyB,CACzB,UAAW,CACX,qBAAwB,CAHtB,WAKF,CAEA,gBAHA,WAMA","sources":["index.css"],"sourcesContent":["body {\n  margin: 15px;\nbackground-color: #2e2e2d;\ncolor: #fff;\nfont-family: 'Righteous';\nheight: 100%;\n}\n\nhtml,\n#root{\n  height: 100%;\n}\n\n"],"names":[],"sourceRoot":""}
